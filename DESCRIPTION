@@ -1,6 +1,6 @@
 Package: rka1
 Type: Package
-Title: Dog Function (v2)
+Title: Emu Function
 Version: 0.1
 Date: 2017-08-29
 Authors@R: person(“Roopa”, “Krithivasan”, email = “rkrithivasan@clarku.edu”, role = c("aut", "cre"))
