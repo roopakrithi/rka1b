@@ -10,9 +10,10 @@ emu_function(love = T)
 \item{love}{Do you love emus? Defaults to TRUE}
 }
 \description{
-What bird should you hug today? Find out here
+What bird should you hug today? Find out here.
 }
 \examples{
 emu_function()
 }
-\keyword{bird}
+\keyword{bird,}
+\keyword{flight}

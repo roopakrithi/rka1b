@@ -1,8 +1,8 @@
 #' A function about emus
 #'
-#' What bird should you hug today? Find out here
+#' What bird should you hug today? Find out here.
 #' @param love Do you love emus? Defaults to TRUE
-#' @keywords bird
+#' @keywords bird, flight
 #' @export
 #' @examples
 #' emu_function()
